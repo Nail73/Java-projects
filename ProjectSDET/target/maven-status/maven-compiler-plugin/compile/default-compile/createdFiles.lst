@@ -1,0 +1,9 @@
+com\saucedemo\LoginPage.class
+com\saucedemo\core\BaseSeleniumPage.class
+com\saucedemo\YourCart.class
+com\saucedemo\core\BaseSeleniumTest.class
+com\saucedemo\ClickCheckout.class
+com\saucedemo\Overview.class
+com\saucedemo\LoginPageError.class
+com\saucedemo\ProductCatalog.class
+com\saucedemo\Complete.class
