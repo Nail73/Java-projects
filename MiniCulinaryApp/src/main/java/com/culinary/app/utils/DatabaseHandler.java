@@ -9,8 +9,8 @@ import java.util.function.Consumer;
 
 public class DatabaseHandler {
     private static final String URL = "jdbc:mysql://localhost:3306/culinary_app?useSSL=false&serverTimezone=UTC";
-    private static final String USER = "root";
-    private static final String PASSWORD = "testtest";
+    private static final String USER = "";
+    private static final String PASSWORD = "";
 
     static {
         try {
